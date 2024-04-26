@@ -1,0 +1,11 @@
+.navbar{
+    border-radius: 4px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.btn-group{
+    background: linear-gradient(#2B3A63, #B382D3);  
+}
+.btn-group:hover{
+  background: linear-gradient( #B382D3, #2B3A63);   
+}
